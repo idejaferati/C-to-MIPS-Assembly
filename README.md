@@ -1,7 +1,7 @@
 # C-to-MIPS-Assembly
 
 ## Recursive Function C++ code:
-
+```
 // A C++ program to demonstrate working of
 // recursion
 #include <bits/stdc++.h>
@@ -23,10 +23,10 @@ int main()
  int test = 4;
  printFun(test);
 }
-
+```
 
 ## Find Max Value in Array C++ code:
-
+```
 #include<iostream>
 using namespace std;
 int largest(int arr[], int n)
@@ -52,3 +52,4 @@ int main()
  << largest(arr, n);
  return 0;
 }
+```
